@@ -20,7 +20,7 @@ This repository contains an **Excel-based sales dashboard** that provides insigh
 - Data Cleaning & Analysis 🛠️  
 
 ## 📷 Dashboard Preview
-Image Christmas-Sales.jpg
+![Christmas Sales Dashboard](https://github.com/Freedom-Analytics/Christmas-Sales-Insights/blob/main/Image%20Christmas-Sales.jpg)
 
 ## 📂 Dataset
 You can access the dataset used in this project [here](https://1drv.ms/u/c/07fb2997ad559975/ESkgWt7h7AlFsWQifdFTBgoBU3dK6dSO83--Sl9_lQ8PSA?e=wR9bVR).
