@@ -37,6 +37,7 @@ This project showcases skills in **data analysis, visualization, and reporting u
 Feel free to fork this repository, make improvements, and submit a pull request! Your contributions are welcome. 
 
 ## 📩 Contact
-For any questions or collaborations, reach out to me via GitHub.
-
+For any questions or collaborations, reach out to me via.
+1. 📧 Email: onyeutefreedom@gmail.com
+2. 📱 WhatsApp: +2349037064724
 ### ⭐ If you find this useful, don’t forget to give it a star!
